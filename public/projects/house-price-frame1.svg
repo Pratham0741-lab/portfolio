@@ -1,0 +1,50 @@
+<svg width="560" height="340" viewBox="0 0 560 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="560" height="340" rx="8" fill="#FAFAFA"/>
+  
+  <!-- Mini sidebar -->
+  <rect width="70" height="340" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1" rx="8 0 0 8"/>
+  <text x="10" y="26" font-family="'Plus Jakarta Sans', sans-serif" font-size="8" font-weight="700" fill="#DC2626">HousePredict</text>
+  <text x="14" y="56" font-family="sans-serif" font-size="8" fill="#1F2937">Home</text>
+  <text x="14" y="80" font-family="sans-serif" font-size="8" fill="#6B7280">Prediction</text>
+  <text x="14" y="104" font-family="sans-serif" font-size="8" fill="#6B7280">Analytics</text>
+  <text x="14" y="128" font-family="sans-serif" font-size="8" fill="#6B7280">Dataset</text>
+  <text x="14" y="152" font-family="sans-serif" font-size="8" fill="#6B7280">About</text>
+
+  <!-- Left Form -->
+  <text x="88" y="36" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" font-weight="700" fill="#111827">House Price Predictor</text>
+  
+  <text x="88" y="66" font-family="sans-serif" font-size="9" fill="#4B5563">Select City</text>
+  <rect x="88" y="74" width="160" height="24" rx="4" fill="#FFFFFF" stroke="#D1D5DB" stroke-width="1"/>
+  <text x="96" y="90" font-family="sans-serif" font-size="9" fill="#111827">Bengaluru</text>
+
+  <text x="88" y="118" font-family="sans-serif" font-size="9" fill="#4B5563">Area (Sq Ft)</text>
+  <rect x="88" y="126" width="160" height="24" rx="4" fill="#FFFFFF" stroke="#D1D5DB" stroke-width="1"/>
+  <text x="96" y="142" font-family="sans-serif" font-size="9" fill="#111827">1200</text>
+
+  <text x="88" y="170" font-family="sans-serif" font-size="9" fill="#4B5563">Number of Bedrooms</text>
+  <rect x="88" y="178" width="160" height="24" rx="4" fill="#FFFFFF" stroke="#D1D5DB" stroke-width="1"/>
+  <text x="96" y="194" font-family="sans-serif" font-size="9" fill="#111827">3</text>
+
+  <rect x="88" y="218" width="160" height="28" rx="4" fill="#2563EB"/>
+  <text x="168" y="236" font-family="'Plus Jakarta Sans', sans-serif" font-size="10" font-weight="600" fill="#FFFFFF" text-anchor="middle">Predict Price</text>
+
+  <!-- Right: Result Card & Chart -->
+  <rect x="270" y="24" width="270" height="290" rx="8" fill="#FFFFFF" stroke="#E5E7EB" stroke-width="1"/>
+  <text x="290" y="52" font-family="sans-serif" font-size="10" fill="#6B7280">Predicted Price</text>
+  <text x="290" y="84" font-family="'Plus Jakarta Sans', sans-serif" font-size="24" font-weight="800" fill="#111827">₹ 1.34 Cr</text>
+  <text x="290" y="104" font-family="sans-serif" font-size="9" fill="#059669">▲ 8.2 Lakh higher than locality avg</text>
+
+  <text x="290" y="142" font-family="'Plus Jakarta Sans', sans-serif" font-size="10" font-weight="700" fill="#111827">Price Trends (Bengaluru)</text>
+  
+  <!-- Line chart -->
+  <line x1="290" y1="260" x2="510" y2="260" stroke="#E5E7EB" stroke-width="1"/>
+  <path d="M 290 250 Q 340 230 380 200 T 450 170 T 510 140" fill="none" stroke="#2563EB" stroke-width="2"/>
+  <circle cx="510" cy="140" r="4" fill="#2563EB"/>
+  <path d="M 290 250 Q 340 230 380 200 T 450 170 T 510 140 L 510 260 L 290 260 Z" fill="#2563EB" fill-opacity="0.1"/>
+
+  <text x="290" y="278" font-family="sans-serif" font-size="8" fill="#9CA3AF">Jan</text>
+  <text x="340" y="278" font-family="sans-serif" font-size="8" fill="#9CA3AF">Feb</text>
+  <text x="390" y="278" font-family="sans-serif" font-size="8" fill="#9CA3AF">Mar</text>
+  <text x="440" y="278" font-family="sans-serif" font-size="8" fill="#9CA3AF">Apr</text>
+  <text x="490" y="278" font-family="sans-serif" font-size="8" fill="#9CA3AF">May</text>
+</svg>

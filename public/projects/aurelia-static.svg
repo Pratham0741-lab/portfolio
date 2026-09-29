@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="500" viewBox="0 0 800 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="500" fill="#141007" rx="4" />
+  <rect x="0.5" y="0.5" width="799" height="499" rx="3.5" stroke="#9E6E16" stroke-width="1" stroke-opacity="0.9" />
+  <rect x="0" y="0" width="800" height="42" fill="#0D0D10" rx="4 4 0 0" />
+  <line x1="0" y1="42" x2="800" y2="42" stroke="#252528" stroke-width="1" />
+  <circle cx="24" cy="21" r="4.5" fill="#3A3A40" />
+  <circle cx="40" cy="21" r="4.5" fill="#3A3A40" />
+  <circle cx="56" cy="21" r="4.5" fill="#3A3A40" />
+  <rect x="180" y="10" width="440" height="22" fill="#18181D" rx="2" stroke="#2B2B32" stroke-width="1" />
+  <text x="400" y="25" fill="#8E8E98" font-family="'Plus Jakarta Sans', monospace, sans-serif" font-size="10" text-anchor="middle" letter-spacing="0.5">aurelia synthesis.local</text>
+  <rect x="710" y="12" width="66" height="18" fill="#9E6E16" fill-opacity="0.25" stroke="#9E6E16" stroke-width="1" rx="2" />
+  <text x="743" y="24" fill="#FFFFFF" font-family="monospace" font-size="9" font-weight="600" text-anchor="middle">ACTIVE</text>
+  
+      <rect x="24" y="60" width="752" height="48" fill="#17130A" stroke="#9E6E16" stroke-width="1" rx="2" />
+      <text x="44" y="90" fill="#FFFFFF" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" font-weight="600">Aurelia Variable Glyph Interpolation Studio</text>
+      <text x="440" y="90" fill="#FCD34D" font-family="monospace" font-size="10">GLYPH: U+0041 ('A')</text>
+      <text x="620" y="90" fill="#FDE68A" font-family="monospace" font-size="10">NODES: 16 BEZIER PTS</text>
+      <rect x="24" y="120" width="510" height="356" fill="#120E06" stroke="#9E6E16" stroke-width="1" rx="2" />
+      <line x1="24" y1="360" x2="534" y2="360" stroke="#2B210B" stroke-width="1" />
+      <line x1="24" y1="200" x2="534" y2="200" stroke="#2B210B" stroke-dasharray="2 4" stroke-width="1" />
+      <line x1="24" y1="440" x2="534" y2="440" stroke="#9E6E16" stroke-width="1" />
+      <text x="40" y="434" fill="#D97706" font-family="monospace" font-size="9">BASELINE 0</text>
+      <text x="40" y="354" fill="#D97706" font-family="monospace" font-size="9">X-HEIGHT 500</text>
+      <text x="40" y="194" fill="#D97706" font-family="monospace" font-size="9">CAP-HEIGHT 720</text>
+      <path d="M 180 430 L 260 240 L 340 430 L 300 430 L 285 380 L 235 380 L 220 430 Z M 245 345 L 275 345 L 260 280 Z" 
+            fill="#FEF3C7" fill-opacity="0.15" stroke="#FBBF24" stroke-width="1.8" />
+      <circle cx="260" cy="240" r="5" fill="#F59E0B" stroke="#FFFFFF" stroke-width="1.5" />
+      <line x1="220" y1="270" x2="260" y2="240" stroke="#F59E0B" stroke-dasharray="2 2" stroke-width="1" />
+      <line x1="300" y1="270" x2="260" y2="240" stroke="#F59E0B" stroke-dasharray="2 2" stroke-width="1" />
+      <rect x="215" y="265" width="10" height="10" fill="#FFFFFF" stroke="#F59E0B" stroke-width="1" />
+      <rect x="295" y="265" width="10" height="10" fill="#FFFFFF" stroke="#F59E0B" stroke-width="1" />
+      <rect x="548" y="120" width="228" height="356" fill="#141007" stroke="#9E6E16" stroke-width="1" rx="2" />
+      <text x="568" y="152" fill="#F59E0B" font-family="'Plus Jakarta Sans', sans-serif" font-size="11" font-weight="600" letter-spacing="1">AXIS TUNING</text>
+      <text x="568" y="184" fill="#FDE68A" font-family="monospace" font-size="10">wght (Weight): 350</text>
+      <rect x="568" y="196" width="188" height="6" fill="#2B1F08" rx="2" />
+      <rect x="568" y="196" width="73.11111111111111" height="6" fill="#F59E0B" rx="2" />
+      <text x="568" y="234" fill="#FDE68A" font-family="monospace" font-size="10">slnt (Slant): 0°</text>
+      <rect x="568" y="246" width="188" height="6" fill="#2B1F08" rx="2" />
+      <rect x="568" y="246" width="0" height="6" fill="#F59E0B" rx="2" />
+      <text x="568" y="284" fill="#FDE68A" font-family="monospace" font-size="10">opsz (Optical): 16pt</text>
+      <rect x="568" y="296" width="188" height="6" fill="#2B1F08" rx="2" />
+      <rect x="568" y="296" width="41.77777777777778" height="6" fill="#F59E0B" rx="2" />
+      <text x="568" y="340" fill="#B45309" font-family="monospace" font-size="9">EXPORT FORMAT</text>
+      <rect x="568" y="352" width="188" height="32" fill="#241906" stroke="#9E6E16" stroke-width="1" rx="2" />
+      <text x="580" y="372" fill="#FFFFFF" font-family="monospace" font-size="10">WOFF2 + OTF CFF2</text>
+      <text x="568" y="416" fill="#B45309" font-family="monospace" font-size="9">CANVAS RENDER</text>
+      <text x="568" y="432" fill="#34D399" font-family="monospace" font-size="10">FPS: 60.0 (WebGPU)</text>
+    
+</svg>
